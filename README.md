@@ -2,7 +2,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-custom-banner-link.com" alt="Banner" />
+  <img src="[https://your-custom-banner-link.com](https://images2.imgbox.com/0f/58/Se12jZLv_o.png)" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
