@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://images2.imgbox.com/0f/58/Se12jZLv_o.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Zaman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 ---
