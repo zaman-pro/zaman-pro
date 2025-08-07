@@ -3,6 +3,10 @@
   <img src="https://images2.imgbox.com/0f/58/Se12jZLv_o.png" alt="Banner" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adnan683515&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Zaman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
