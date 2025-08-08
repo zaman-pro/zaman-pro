@@ -1,32 +1,99 @@
-<!-- Profile Banner -->
+<!-- Banner Image -->
 <p align="center">
   <img src="https://images2.imgbox.com/0f/58/Se12jZLv_o.png" alt="Banner" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zaman-pro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=zaman-pro&label=Profile%20views&color=0e75b6&style=flat" alt="zaman-pro" /> </div>
+
+<h1 align="center">
+Hello 
+<img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">
+I'm Zaman
+</h1>
+<h3 align="center">Junior MERN Stack Developer / Frontend Developer</h3>
+
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=azeret+mono&size=24&pause=1000&center=true&vCenter=true&width=720&height=45&lines=Transforming+ideas+into+web+experiences.;Code.+Create.+Repeat.;Clean%2C+Efficient%2C+and+Scalable+code." alt="Typing SVG" /></a>
+  </p>
+
+---
+
+## <img src ="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" height="35px"> About Me
+
+I’m a passionate and detail-oriented developer who loves building responsive, interactive, and user-friendly web applications.  
+My goal is to keep improving my skills, exploring new technologies, and creating meaningful digital experiences.
+
+---
+
+## 🚀 Current Activities
+
+- Currently learning **Next.js**, **TanStack**, and **ThreeJS**
+- 🛠 Building projects to sharpen my MERN Stack skills
+- Expanding my knowledge of modern frontend development
+
+---
+
+## <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> My Skills
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,materialui" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Zaman</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,figma,postman,notion,npm,pnpm" />
+</p>
+
+### Upcoming...
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,threejs" />
+</p>
 
 ---
 
-### 🧑‍💻 About Me:
+## 🌐 Connect with Me
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
-- 🧠 Improving my DSA and problem-solving skills
-- 💬 Ask me about **JavaScript, React, MongoDB**
-- 📫 How to reach me: `your@email.com`
-- ⚡ Fun fact: I enjoy debugging more than coding sometimes 😅
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zaman-pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mdalimzaman.23@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/zamanpro/)
 
 ---
 
-### 💻 Tech Stack:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub Stats
 
-```bash
-Languages: JavaScript, TypeScript
-Frontend: HTML, CSS, React, Tailwind
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
-Tools: Git, GitHub, Postman, VS Code
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zaman-pro&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app?user=zaman-pro&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaman-pro&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaman-pro&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
