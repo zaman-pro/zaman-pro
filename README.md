@@ -40,7 +40,7 @@ As a **Junior MERN Stack Developer / Frontend Developer**, my goal is to keep im
 
 ---
 
-## 🔹 My Skills
+## 🔹 Skills
 
 ### Frontend
 
