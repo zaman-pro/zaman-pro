@@ -18,22 +18,23 @@ I'm Zaman
 
 ---
 
-## <img src ="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" height="35px"> About Me
+## About Me
 
 I’m a passionate and detail-oriented developer who loves building responsive, interactive, and user-friendly web applications.  
 My goal is to keep improving my skills, exploring new technologies, and creating meaningful digital experiences.
 
 ---
 
-## 🚀 Current Activities
+## Current Activities
 
-- Currently learning **Next.js**, **TanStack**, and **ThreeJS**
-- 🛠 Building projects to sharpen my MERN Stack skills
+- Currently exploring **Next.js**, **TanStack**, and **ThreeJS**
+- Building projects to sharpen my MERN Stack skills
 - Expanding my knowledge of modern frontend development
+- Polishing my recent projects
 
 ---
 
-## <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> My Skills
+## My Skills
 
 ### Frontend
 
@@ -61,7 +62,7 @@ My goal is to keep improving my skills, exploring new technologies, and creating
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zaman-pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)
@@ -71,7 +72,7 @@ My goal is to keep improving my skills, exploring new technologies, and creating
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub Stats
+## My GitHub Stats
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -90,10 +91,18 @@ My goal is to keep improving my skills, exploring new technologies, and creating
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zaman-pro&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+---
+
+## Fun Facts
+
+- ✨ Creating bugs since **2024**
+- 🎯 Goal: Become a **Software Engineer** and build **Advanced** applications
+- 🎲 Debugged for hours once — only to find it was a **missing semicolon** 😅
 
 ---
