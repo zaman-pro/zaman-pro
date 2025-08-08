@@ -108,3 +108,8 @@ As a **Junior MERN Stack Developer / Frontend Developer**, my goal is to keep im
 - I debugged for a day once, only to find it was a **missing semicolon** 😅
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="./github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
