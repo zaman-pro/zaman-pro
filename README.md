@@ -108,3 +108,9 @@ As a **Junior MERN Stack Developer / Frontend Developer**, my goal is to keep im
 - I debugged for a day once, only to find it was a **missing semicolon** 😅
 
 ---
+<!-- Snake Animation -->
+<div align="center">
+  
+  ![snake gif](https://github.com/zaman-pro/zaman-pro/blob/output/github-snake-dark.svg)
+</div>
+
